@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="100" height="100" tilewidth="64" tileheight="64">
+ <tileset firstgid="1" name="gta2" tilewidth="64" tileheight="64">
+  <image source="../../workingassets/gta2tiles.jpg" trans="000000" width="2048" height="2048"/>
+  <tile id="596">
+   <animation>
+    <frame tileid="596" duration="100"/>
+    <frame tileid="597" duration="100"/>
+    <frame tileid="598" duration="100"/>
+    <frame tileid="599" duration="100"/>
+    <frame tileid="600" duration="100"/>
+    <frame tileid="601" duration="100"/>
+    <frame tileid="602" duration="100"/>
+    <frame tileid="603" duration="100"/>
+   </animation>
+  </tile>
+  <tile id="608">
+   <animation>
+    <frame tileid="608" duration="100"/>
+    <frame tileid="609" duration="100"/>
+    <frame tileid="610" duration="100"/>
+    <frame tileid="611" duration="100"/>
+    <frame tileid="612" duration="100"/>
+    <frame tileid="613" duration="100"/>
+    <frame tileid="614" duration="100"/>
+    <frame tileid="615" duration="100"/>
+    <frame tileid="616" duration="100"/>
+    <frame tileid="617" duration="100"/>
+    <frame tileid="618" duration="100"/>
+    <frame tileid="619" duration="100"/>
+   </animation>
+  </tile>
+ </tileset>
+ <layer name="Tile Layer 1" width="100" height="100">
+  <data encoding="base64" compression="zlib">
+   eJzt1LtNw1AYhuHjZBEoAImCGbwEfbILILEAtLlAwQpUgSYFG1AxCj9yLHOJgrGPIgs9j/Qpx4lcxK/k6SilaYaRR44WeuSjx7DoMSx6DIsew6LHsOyjx+1+/sq/0OZZX3Xc5Y7f2K5Nj3lssdnyl/Pjp/PpOKXj2FHsMHYX352M00SPfqJHGc939bHl5rPNOe5bnVU9yuhRRp9JNJnp0d31KM8uomm0ONCjv/qd/1L8fa9FdW80memRR93jueg2PfKqe6zj2T4VzWeb8/pnjzc9+ql73KdqD6k5f7/edj7XI6u6xzw1W6Sv17umR151j5uO874CAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHJ6B5jy1iY=
+  </data>
+ </layer>
+ <layer name="Tile Layer 2" width="100" height="100">
+  <data encoding="base64" compression="zlib">
+   eJzt201KA0EQQOFOchHXbr1QvIsEvIDrnML1bF3pEQQ9iB1EyN8MnUxPz6v4PihQdJyuvERcmJTqeFw6NaYW8llr7jkle7CMOefTMnXP+fprJl+7tsepMefMj+t6k6//XpTP7vs3v0229jhVo8fXonzsMaxGj/eUutKxx7BKPQ7mbe/jj6Ov2WNYjXO+LPvnYZXu8nz+fX58b3scanHO+1Xa9t27RY+xLVtqcdb8+uiG7t2iRxSRnjvXirSfPVjswdKqx+ti+nv0scd5czWxx3m5x7bNnQ7ZgyXSfvZgsQeLPVjswWIPFnuw2IPFHiz2YLEHiz1Y7MFiDxZ7sNiDxR4s9mCxB4s9WOzBYg8We7DYg8UeLPZgsQfL2PceRRBpN3uw2INlqEeNPa75GbXf1xm1R8ljcMn3j52hM1+6I1Hp/jWfm1OYskfL51vf7yTK41xqjtfkHLvdqki72YOD9lqdSpTd7MFiDxZ7sNiDxR4s9mCxB489WOzBcustdiLtZw8We7DYg8UeLPbg+A9/6+5E2c8eLPZgsQeLPVjswWIPFnuw2IPHHiz2YLEHiz1Y7MFiDxZ7sNiDxR4s9mCxB4s9WOzBYg8We7DYg8UeLPZgsQfLrfeItl+E8+7/38XxlFwbydCuzjzzA4bUff0=
+  </data>
+ </layer>
+</map>
